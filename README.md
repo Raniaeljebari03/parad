@@ -37,6 +37,7 @@ This project implements an LLM-powered RESTful web service for translating text 
 - `pom.xml` → Maven configuration file
 
 ## How to Run the Backend
+Make sure Java and Maven are installed before running the backend.
 ```bash
 mvn clean compile exec:java
 ```
