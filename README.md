@@ -37,14 +37,18 @@ This project implements an LLM-powered RESTful web service for translating text 
 - `pom.xml` → Maven configuration file
 
 ## How to Run the Backend
+```bash
 mvn clean compile exec:java
+```
 
 Backend runs at:
 http://localhost:8080/api/
 
 How to Run the Web Client:
 cd mobile-react-native
+```bash
 npx expo start --clear
+```
 
 Open in browser:
 http://localhost:8081
@@ -60,6 +64,8 @@ The Chrome extension uses the REST API to translate selected text directly from 
 The project includes Python and PHP clients that communicate with the same REST API endpoint.
 
 ## UML Diagrams
+The UML diagrams illustrate the system architecture, request flow, and deployment structure.
+
 	•	Class Diagram
 	•	Deployment Diagram
 	•	Sequence Diagram
