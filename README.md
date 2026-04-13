@@ -37,7 +37,6 @@ This project implements an LLM-powered RESTful web service for translating text 
 - `pom.xml` → Maven configuration file
 
 ## How to Run the Backend
-```bash
 mvn clean compile exec:java
 
 Backend runs at:
@@ -50,7 +49,7 @@ npx expo start --clear
 Open in browser:
 http://localhost:8081
 
-Authentication
+## Authentication
 	•	Username: rania
 	•	Password: project2
 
@@ -60,7 +59,7 @@ The Chrome extension uses the REST API to translate selected text directly from 
 ## Python and PHP Clients
 The project includes Python and PHP clients that communicate with the same REST API endpoint.
 
-UML Diagrams
+## UML Diagrams
 	•	Class Diagram
 	•	Deployment Diagram
 	•	Sequence Diagram
@@ -69,5 +68,11 @@ UML Diagrams
 ## Known Limitation
 The Google Gemini API may return:
 503 Service Unavailable
-due to high demand. 
+due to high demand.
+
+
+
+
+
+
 
