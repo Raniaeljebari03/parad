@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "LLM Translator",
+  "version": "1.0",
+  "description": "Translate selected text to Darija using an LLM backend",
+  "permissions": [
+    "storage",
+    "contextMenus",
+    "activeTab",
+    "sidePanel"
+  ],
+  "host_permissions": [
+    "http://localhost:8080/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "LLM Translator"
+  },
+  "side_panel": {
+    "default_path": "side_panel.html"
+  }
+}

@@ -1,0 +1,28 @@
+body {
+  font-family: Arial;
+  padding: 10px;
+}
+
+h2 {
+  text-align: center;
+}
+
+#original {
+  margin: 10px 0;
+  font-weight: bold;
+}
+
+#result {
+  margin-top: 15px;
+  color: green;
+  font-size: 16px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

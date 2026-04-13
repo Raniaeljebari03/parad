@@ -1,0 +1,7 @@
+com/project2/security/BasicAuthFilter.class
+com/project2/model/TranslationResponse.class
+com/project2/security/CorsFilter.class
+com/project2/model/TranslationRequest.class
+com/project2/resource/TranslatorResource.class
+com/project2/Main.class
+com/project2/service/GeminiService.class

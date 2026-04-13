@@ -1,0 +1,7 @@
+/Users/pc/Project2-LLM-Translator/backend-java/src/main/java/com/project2/Main.java
+/Users/pc/Project2-LLM-Translator/backend-java/src/main/java/com/project2/model/TranslationRequest.java
+/Users/pc/Project2-LLM-Translator/backend-java/src/main/java/com/project2/model/TranslationResponse.java
+/Users/pc/Project2-LLM-Translator/backend-java/src/main/java/com/project2/resource/TranslatorResource.java
+/Users/pc/Project2-LLM-Translator/backend-java/src/main/java/com/project2/security/BasicAuthFilter.java
+/Users/pc/Project2-LLM-Translator/backend-java/src/main/java/com/project2/security/CorsFilter.java
+/Users/pc/Project2-LLM-Translator/backend-java/src/main/java/com/project2/service/GeminiService.java
